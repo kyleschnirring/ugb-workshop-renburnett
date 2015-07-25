@@ -8,6 +8,12 @@ cd ~/renburnett/Movies
 pwd
 cd ~ #blah blah blah
 cd
+
+//yo yo yo yo HI HI HI HI
+
+BLAH BLAH BLAH
+BASTARD!!!!!!!
+
 ls ~
 ls /Users/renburnett/Movies
 ls /
