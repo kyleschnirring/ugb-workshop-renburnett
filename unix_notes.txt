@@ -1,0 +1,108 @@
+man less
+history | less
+clear
+cd /..
+ls -a
+ls
+cd ~/renburnett/Movies
+pwd
+cd ~ #blah blah blah
+cd
+ls ~
+ls /Users/renburnett/Movies
+ls /
+cd /Users/renburnett
+cd
+cd /Users/renburnett/Movies
+cd /../..
+ls -l
+cd Chrome\ Apps.localized/
+ls
+cd Users/renburnett/Applications
+cd /../../..
+cd Movies
+cd Users/renburnett/
+cd/..
+cd /Users/renburnett/Documents/
+cd /
+rm -r my_first_repository
+cat my_first_repository/
+cat Movies
+cd /Users/renburnett/
+man ls
+ls man
+ls -r
+man git
+man ren
+man rep
+#dumb mistake
+man gnu
+man nano
+ls -rl
+ls -lr
+ls -rt
+r
+la -a
+ls -lt
+ls -t
+git log
+git --version
+git branch
+sudo rm -r .git
+rm -r .git
+rm .git
+cd my_first_repository/
+rm fucker
+rm -r fucker
+nano fucker
+git add
+git add my_first_repository
+git add fucker
+nano
+rm -r /Users/renburnett/my_first_repository
+rm -r /Users/renburnett/my_first_repositor
+y/.git/.COMMIT_EDITMSG.swp
+y/.git/.COMMIT_EDITMSG.sw
+/Users/renburnett/my_first_repositor
+git commit
+git commit -a -m
+nano FUCKER
+git init my_first_repository
+git add FUCKER
+rm -r my_cool_project
+sudo rm my_cool_project
+rm my_cool_project/
+ls- a
+mkdir my_cool_project
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'renxburnett@gmail.com'
+git config --global user.name 'Ren Burnett'
+git config --global user.name 'YOUR FULL NAME'
+brew install git
+echo $PATH
+subl /etc/paths
+set -gx EDITOR 'subl -w'
+# Sublime Text
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+ls -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+cd documents
+cd documnets
+cd do
+less
+./fastboot-mac flash bootloader bootloader-shamu-moto-apq8084-71.08.clear
+echo hello world
+help
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+cd Documents
+uname
